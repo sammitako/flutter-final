@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771227551793",
+    "project_id": "sammitako-tiktok-final",
+    "storage_bucket": "sammitako-tiktok-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771227551793:android:ba66c97fd3a7ab28afad10",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5s_MGfIl55FhnJAaX9sDmxUB-VKiz3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

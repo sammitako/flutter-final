@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sammitako-tiktok-final",
+          "appId": "1:771227551793:android:ba66c97fd3a7ab28afad10",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "sammitako-tiktok-final",
+          "appId": "1:771227551793:ios:5d3fecfbc4954ec0afad10",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sammitako-tiktok-final",
+          "configurations": {
+            "android": "1:771227551793:android:ba66c97fd3a7ab28afad10",
+            "ios": "1:771227551793:ios:5d3fecfbc4954ec0afad10",
+            "web": "1:771227551793:web:8bf414a500db06d0afad10"
+          }
+        }
+      }
+    }
+  }
+}
