@@ -1,4 +1,4 @@
-# tiktok_final
+# Mood Tracker
 
 A new Flutter project.
 
